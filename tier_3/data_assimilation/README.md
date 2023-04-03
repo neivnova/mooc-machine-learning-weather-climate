@@ -32,27 +32,27 @@ It also benefited from pieces of code previously developed by Marc Bocquet, Juli
 Please have a look at the introductory part before running the notebooks.
 
 Run the introductory notebook:
-- Part Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/ecmwf-projects/mooc-machine-learning-weather-climate/blob/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_intro.ipynb)
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/blob/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_intro.ipynb)
+- Part Intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/neivnova/mooc-machine-learning-weather-climate/tree/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_intro.ipynb)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/neivnova/mooc-machine-learning-weather-climate/tree/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_intro.ipynb)
 
 If running the notebooks on your own system, to view the introductory material in the form of a slideshow, you need to install the jupyter addon rise https://rise.readthedocs.io/ via pip install rise in your conda mooc environment, and then activate the rise slideshow mode.
 
 #### It can also be displayed as a pdf file:
-https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/blob/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_intro.pdf
+https://github.com/neivnova/mooc-machine-learning-weather-climate/tree/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_intro.pdf
 
 ## Run the notebooks on google colab
 Just run each notebook starting with part 1:
 - Part 1 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/ecmwf-projects/mooc-machine-learning-weather-climate/blob/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_part1.ipynb)
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/blob/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_part1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/neivnova/mooc-machine-learning-weather-climate/tree/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_part1.ipynb)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/neivnova/mooc-machine-learning-weather-climate/tree/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_part1.ipynb)
 
 - Part 2 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/ecmwf-projects/mooc-machine-learning-weather-climate/blob/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_part2.ipynb)
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/blob/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_part2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/neivnova/mooc-machine-learning-weather-climate/tree/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_part2.ipynb)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/neivnova/mooc-machine-learning-weather-climate/tree/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_part2.ipynb)
 
 - Part 3 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/ecmwf-projects/mooc-machine-learning-weather-climate/blob/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_part3.ipynb) 
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/blob/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_part3.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/neivnova/mooc-machine-learning-weather-climate/tree/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_part3.ipynb) 
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/neivnova/mooc-machine-learning-weather-climate/tree/main/tier_3/data_assimilation/mooc_ecmwf_bocquet_brajard_part3.ipynb)
 
 
 ## Run the notebooks on your machine
